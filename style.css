@@ -1,0 +1,178 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#haut {
+    height: 90px;
+    background-color: #e60012;
+    position: relative;
+}
+
+#gauche {
+    width: 110px;
+    background-color: #6f0009;
+    position: relative;
+}
+
+.hautlogo {
+    display: inline;
+}
+
+#logo {
+    position: absolute;
+    left: 18px;
+    top: 14px;
+    background-image: url("assets/img/nintendo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 100px;
+}
+
+#logosearch {
+    position: absolute;
+    right: 400px;
+    top: 18px;
+    font-size: 23px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+}
+
+#logohearth {
+    position: absolute;
+    right: 255px;
+    top: 20px;
+    font-size: 23px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+#logoshop {
+    position: absolute;
+    right: 140px;
+    top: 20px;
+    font-size: 23px;
+    width: 60px;
+    height: 60px;
+}
+
+#connexion {
+    position: absolute;
+    right: 1px;
+    top: 20px;
+    font-size: 23px;
+}
+
+span {
+    display: block;
+}
+
+#jeux {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 85px;
+    padding-top: 20px;
+    font-size: 15px;
+    border-radius: 0 15px 0 0;
+    background-color: #e60012;
+}
+
+#hardware {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 85px;
+    padding-top: 20px;
+    font-size: 15px;
+    border-radius: 0 15px 0 0;
+    background-color: #e60012;
+}
+
+#manette {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 115px;
+    padding-top: 15px;
+    font-size: 15px;
+    border-radius: 0 15px 0 0;
+    background-color: #e60012;
+}
+
+#nshop {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 100px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#store {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 100px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#assist {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 90px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#news {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 90px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#multi {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#points {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 45px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#fleche {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 45px;
+    padding-top: 65px;
+    background-color: #be0010;
+}
